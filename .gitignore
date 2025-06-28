@@ -1,0 +1,26 @@
+# Fichiers secrets
+secrets.h
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Build
+*.hex
+*.elf
+*.bin
+build/
+
+# Logs
+*.log
+log.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
